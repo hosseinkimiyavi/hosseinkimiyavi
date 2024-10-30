@@ -1,6 +1,8 @@
-## Hey 👋, I'm Hossein Kimiyavi!  
-  
-
+## Hey 👋, I'm Hossein Kimiyavi! 
+<div>
+  <h1>About Me</h1>
+  <h5>Hi there! I’m a Front-End Developer with a passion for building interactive and user-friendly web applications. I specialize in HTML, CSS, JavaScript, and React, focusing on creating responsive designs and optimizing performance.</h5>
+</div>
 <a href="https://linkedin.com/in/hosseinkimiyavi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
